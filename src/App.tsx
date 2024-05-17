@@ -18,9 +18,6 @@ function App() {
         >
           Learn React
         </a>
-        <p>
-          ONLINE SHOPPING SYSTEM
-        </p>
       </header>
     </div>
   );
